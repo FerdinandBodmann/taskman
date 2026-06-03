@@ -1,0 +1,9 @@
+[package]
+name = "taskman"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+ratatui = "0.29.0"
+crossterm = "0.28.1"
+sysinfo = "0.33.1"
